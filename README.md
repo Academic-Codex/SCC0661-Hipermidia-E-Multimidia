@@ -3,8 +3,8 @@
 </p> -->
 
 <p align="center">
-  <a href="https://Academic-Codex.github.io/SCC0661-Hipermidia-e-Multimidia">
-    <img src=".github/readme/hero.svg?v=2026-01-08T01:39:53.203660Z" width="100%" alt="Access the course website" />
+  <a href="https://academic-codex.github.io/SCC0661-Hipermidia-e-Multimidia?utm_source=SCC0661-Hipermidia-e-Multimidia&utm_medium=readme">
+    <img src=".github/readme/hero.svg?v=2026-02-03T01:40:00.580087Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
